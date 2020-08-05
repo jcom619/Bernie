@@ -1,0 +1,12 @@
+body {
+    margin: 0em;
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20%;
+    text-shadow: 10px 10px 5px black;
+    color: white;
+    font-size: 50px;
+}
