@@ -1,11 +1,11 @@
 body {
     margin: 0em;
-    background-color: burlywood;
+    background-color: darkslateblue;
 }
 
 h1 {
     text-align: center;
-    margin-top: 20%;
+    margin-top: 10%;
     text-shadow: 10px 10px 5px black;
     color: white;
     font-size: 50px;
